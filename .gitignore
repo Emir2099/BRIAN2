@@ -1,0 +1,47 @@
+# Ignore specific folders
+AnalogAndDigital_Older/
+AnalogNeuron_Initial/
+
+# Ignore specific files
+inital.py
+AnalogAndDigital_Final/main.py
+
+# Ignore common Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Brian2 temporary files
+*.log
+brian_debug_*.log
+brian_script_*.py
