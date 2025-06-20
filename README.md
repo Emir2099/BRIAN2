@@ -34,8 +34,8 @@ The project demonstrates a novel approach to neuromorphic computing by:
 
 ```bash
 pip install brian2 numpy matplotlib
-git clone https://github.com/yourusername/analog-digital-hybrid-network.git
-cd analog-digital-hybrid-network
+git clone https://github.com/Emir2099/BRIAN2.git
+cd AnalogAndDigital_Final
 ```
 
 ## Usage
@@ -43,13 +43,13 @@ cd analog-digital-hybrid-network
 Run the main simulation with:
 
 ```bash
-python main.py
+python main_file.py
 ```
 
 To customize the simulation, modify parameters in the main.py file or use command-line arguments:
 
 ```bash
-python main.py --learning_rule stdp --run_time 2000
+python main_file.py --learning_rule stdp --run_time 2000
 ```
 
 ## Results
