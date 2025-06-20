@@ -76,7 +76,7 @@ The code generates several plots:
 - **Neuromorphic Hardware**: RRAM-integrated chips
 - **Brain-inspired Computing**: Models that bridge biological plausibility with engineering pragmatism
 
-## Citation
+<!-- ## Citation
 
 If you use this code in your research, please cite:
 
@@ -87,7 +87,7 @@ If you use this code in your research, please cite:
   journal={Journal Name},
   year={2023}
 }
-```
+``` -->
 
 ## Acknowledgments
 
